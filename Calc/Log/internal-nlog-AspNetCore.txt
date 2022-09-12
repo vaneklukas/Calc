@@ -1,0 +1,348 @@
+2022-09-11 22:25:57.7452 Info Message Template Auto Format enabled
+2022-09-11 22:25:57.7798 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-11 22:25:57.8032 Info Adding target FileTarget(Name=allfile)
+2022-09-11 22:25:57.8032 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-11 22:25:57.8043 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-11 22:25:57.8598 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-11 22:25:58.3204 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:33:55.8157 Info Message Template Auto Format enabled
+2022-09-12 09:33:55.8497 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 09:33:55.8764 Info Adding target FileTarget(Name=allfile)
+2022-09-12 09:33:55.8764 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 09:33:55.8774 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 09:33:55.9386 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:33:56.3592 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:35:01.9305 Info Message Template Auto Format enabled
+2022-09-12 09:35:01.9639 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 09:35:01.9886 Info Adding target FileTarget(Name=allfile)
+2022-09-12 09:35:01.9895 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 09:35:01.9897 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 09:35:02.0479 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:35:02.4817 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:35:43.8469 Info Message Template Auto Format enabled
+2022-09-12 09:35:43.8806 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 09:35:43.9051 Info Adding target FileTarget(Name=allfile)
+2022-09-12 09:35:43.9059 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 09:35:43.9059 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 09:35:43.9582 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:35:44.3427 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:52:59.2957 Info Message Template Auto Format enabled
+2022-09-12 09:52:59.3294 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 09:52:59.3525 Info Adding target FileTarget(Name=allfile)
+2022-09-12 09:52:59.3534 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 09:52:59.3534 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 09:52:59.4108 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 09:52:59.8765 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:01:41.3562 Info Message Template Auto Format enabled
+2022-09-12 10:01:41.3966 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:01:41.4238 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:01:41.4247 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:01:41.4247 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:01:41.4951 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:01:41.9540 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:05:50.8137 Info Message Template Auto Format enabled
+2022-09-12 10:05:50.8476 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:05:50.8726 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:05:50.8736 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:05:50.8736 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:05:50.9311 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:05:51.3341 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:16:37.7645 Info Message Template Auto Format enabled
+2022-09-12 10:16:37.7987 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:16:37.8218 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:16:37.8218 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:16:37.8229 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:16:37.9026 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:16:38.3042 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:24:14.1796 Info Message Template Auto Format enabled
+2022-09-12 10:24:14.2183 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:24:14.2415 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:24:14.2424 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:24:14.2424 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:24:14.2965 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:24:14.7588 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:41:55.8484 Info Message Template Auto Format enabled
+2022-09-12 10:41:55.8820 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:41:55.9061 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:41:55.9069 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:41:55.9069 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:41:55.9630 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:41:56.3816 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:47:47.5260 Info Message Template Auto Format enabled
+2022-09-12 10:47:47.5590 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:47:47.5837 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:47:47.5845 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:47:47.5845 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:47:47.6421 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:47:48.0359 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:49:46.6289 Info Message Template Auto Format enabled
+2022-09-12 10:49:46.6630 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:49:46.6859 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:49:46.6867 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:49:46.6867 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:49:46.7434 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:49:47.1455 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:52:03.0285 Info Message Template Auto Format enabled
+2022-09-12 10:52:03.0627 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:52:03.0860 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:52:03.0869 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:52:03.0869 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:52:03.1439 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:52:03.5234 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:53:06.3467 Info Message Template Auto Format enabled
+2022-09-12 10:53:06.3795 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:53:06.4037 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:53:06.4045 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:53:06.4045 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:53:06.4598 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:53:06.8314 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:54:49.7163 Info Message Template Auto Format enabled
+2022-09-12 10:54:49.7489 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:54:49.7735 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:54:49.7743 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:54:49.7743 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:54:49.8310 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:54:50.2185 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:56:36.4574 Info Message Template Auto Format enabled
+2022-09-12 10:56:36.4905 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 10:56:36.5137 Info Adding target FileTarget(Name=allfile)
+2022-09-12 10:56:36.5145 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 10:56:36.5145 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 10:56:36.5711 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 10:56:36.9731 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:00:22.5618 Info Message Template Auto Format enabled
+2022-09-12 11:00:22.5971 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 11:00:22.6211 Info Adding target FileTarget(Name=allfile)
+2022-09-12 11:00:22.6219 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 11:00:22.6219 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 11:00:22.6922 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:00:23.0818 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:08:50.7435 Info Message Template Auto Format enabled
+2022-09-12 11:08:50.7792 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 11:08:50.8026 Info Adding target FileTarget(Name=allfile)
+2022-09-12 11:08:50.8034 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 11:08:50.8034 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 11:08:50.8799 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:08:51.3092 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:25:36.6615 Info Message Template Auto Format enabled
+2022-09-12 11:25:36.6965 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 11:25:36.7196 Info Adding target FileTarget(Name=allfile)
+2022-09-12 11:25:36.7204 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 11:25:36.7204 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 11:25:36.7835 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:25:37.2270 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:31:02.5932 Info Message Template Auto Format enabled
+2022-09-12 11:31:02.6274 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 11:31:02.6504 Info Adding target FileTarget(Name=allfile)
+2022-09-12 11:31:02.6512 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 11:31:02.6514 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 11:31:02.7292 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:31:03.1351 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:32:07.4518 Info Message Template Auto Format enabled
+2022-09-12 11:32:07.4864 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 11:32:07.5092 Info Adding target FileTarget(Name=allfile)
+2022-09-12 11:32:07.5100 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 11:32:07.5100 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 11:32:07.5868 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:32:07.9818 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:38:45.9406 Info Message Template Auto Format enabled
+2022-09-12 11:38:45.9741 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 11:38:45.9966 Info Adding target FileTarget(Name=allfile)
+2022-09-12 11:38:45.9974 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 11:38:45.9974 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 11:38:46.0545 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 11:38:46.4412 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:37:54.2741 Info Message Template Auto Format enabled
+2022-09-12 13:37:54.3133 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:37:54.3361 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:37:54.3368 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:37:54.3368 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:37:54.4136 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:37:54.6085 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:37:54.6555 Info Shutdown() called. Logger closing...
+2022-09-12 13:37:54.6555 Info Closing old configuration.
+2022-09-12 13:37:54.6788 Info Logger has been closed down.
+2022-09-12 13:39:16.4186 Info Message Template Auto Format enabled
+2022-09-12 13:39:16.4530 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:39:16.4780 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:39:16.4790 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:39:16.4790 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:39:16.5514 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:39:17.0136 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:41:18.4747 Info Message Template Auto Format enabled
+2022-09-12 13:41:18.5126 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:41:18.5345 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:41:18.5351 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:41:18.5351 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:41:18.5859 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:41:18.7703 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:41:18.8144 Info Shutdown() called. Logger closing...
+2022-09-12 13:41:18.8144 Info Closing old configuration.
+2022-09-12 13:41:18.8279 Info Logger has been closed down.
+2022-09-12 13:41:29.8806 Info Message Template Auto Format enabled
+2022-09-12 13:41:29.9185 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:41:29.9398 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:41:29.9398 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:41:29.9398 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:41:30.0118 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:41:30.1997 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:41:30.2433 Info Shutdown() called. Logger closing...
+2022-09-12 13:41:30.2433 Info Closing old configuration.
+2022-09-12 13:41:30.2570 Info Logger has been closed down.
+2022-09-12 13:42:27.6809 Info Message Template Auto Format enabled
+2022-09-12 13:42:27.7189 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:42:27.7405 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:42:27.7405 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:42:27.7412 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:42:27.7889 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:42:28.0274 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:42:28.0722 Info Shutdown() called. Logger closing...
+2022-09-12 13:42:28.0722 Info Closing old configuration.
+2022-09-12 13:42:28.0859 Info Logger has been closed down.
+2022-09-12 13:44:34.2035 Info Message Template Auto Format enabled
+2022-09-12 13:44:34.2368 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:44:34.2617 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:44:34.2617 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:44:34.2627 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:44:34.3380 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:44:34.7966 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:48:44.6953 Info Message Template Auto Format enabled
+2022-09-12 13:48:44.7302 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:48:44.7536 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:48:44.7544 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:48:44.7544 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:48:44.8177 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:48:45.2035 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:51:28.0984 Info Message Template Auto Format enabled
+2022-09-12 13:51:28.1328 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:51:28.1576 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:51:28.1584 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:51:28.1584 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:51:28.2321 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:51:28.6247 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:53:46.3173 Info Message Template Auto Format enabled
+2022-09-12 13:53:46.3503 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 13:53:46.3752 Info Adding target FileTarget(Name=allfile)
+2022-09-12 13:53:46.3752 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 13:53:46.3763 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 13:53:46.4321 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 13:53:46.8190 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:05:16.7090 Info Message Template Auto Format enabled
+2022-09-12 14:05:16.7424 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:05:16.7657 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:05:16.7657 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:05:16.7667 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:05:16.8177 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:05:17.2336 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:13:51.1716 Info Message Template Auto Format enabled
+2022-09-12 14:13:51.2060 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:13:51.2305 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:13:51.2305 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:13:51.2316 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:13:51.2925 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:13:51.7388 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:20:04.3403 Info Message Template Auto Format enabled
+2022-09-12 14:20:04.3740 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:20:04.3969 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:20:04.3978 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:20:04.3978 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:20:04.4585 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:20:04.8987 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:21:06.6177 Info Message Template Auto Format enabled
+2022-09-12 14:21:06.6519 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:21:06.6751 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:21:06.6761 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:21:06.6761 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:21:06.7358 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:21:07.1419 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:23:30.0256 Info Message Template Auto Format enabled
+2022-09-12 14:23:30.0594 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:23:30.0839 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:23:30.0839 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:23:30.0849 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:23:30.1423 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:23:30.5507 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:29:24.7424 Info Message Template Auto Format enabled
+2022-09-12 14:29:24.7777 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:29:24.8008 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:29:24.8016 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:29:24.8016 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:29:24.8575 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:29:25.2704 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:31:13.9490 Info Message Template Auto Format enabled
+2022-09-12 14:31:13.9826 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:31:14.0072 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:31:14.0081 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:31:14.0081 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:31:14.0781 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:31:14.4805 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:34:33.0247 Info Message Template Auto Format enabled
+2022-09-12 14:34:33.0589 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:34:33.0822 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:34:33.0822 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:34:33.0832 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:34:33.1425 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:34:33.5344 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:36:23.9871 Info Message Template Auto Format enabled
+2022-09-12 14:36:24.0203 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:36:24.0434 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:36:24.0442 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:36:24.0442 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:36:24.1266 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:36:24.5950 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:44:48.1677 Info Message Template Auto Format enabled
+2022-09-12 14:44:48.2027 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:44:48.2261 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:44:48.2270 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:44:48.2270 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:44:48.2969 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:44:48.6695 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:48:39.0415 Info Message Template Auto Format enabled
+2022-09-12 14:48:39.0746 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:48:39.0995 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:48:39.1003 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:48:39.1003 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:48:39.1738 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:48:39.5627 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:53:36.7252 Info Message Template Auto Format enabled
+2022-09-12 14:53:36.7581 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 14:53:36.7810 Info Adding target FileTarget(Name=allfile)
+2022-09-12 14:53:36.7819 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 14:53:36.7821 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 14:53:36.8374 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 14:53:37.2120 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:03:41.6083 Info Message Template Auto Format enabled
+2022-09-12 15:03:41.6417 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 15:03:41.6651 Info Adding target FileTarget(Name=allfile)
+2022-09-12 15:03:41.6659 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 15:03:41.6659 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 15:03:41.7450 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:03:42.1634 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:07:44.5953 Info Message Template Auto Format enabled
+2022-09-12 15:07:44.6292 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 15:07:44.6522 Info Adding target FileTarget(Name=allfile)
+2022-09-12 15:07:44.6530 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 15:07:44.6530 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 15:07:44.7128 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:07:45.1233 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:08:34.9287 Info Message Template Auto Format enabled
+2022-09-12 15:08:34.9635 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 15:08:34.9865 Info Adding target FileTarget(Name=allfile)
+2022-09-12 15:08:34.9873 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 15:08:34.9873 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 15:08:35.0464 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:08:35.4346 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:11:41.7684 Info Message Template Auto Format enabled
+2022-09-12 15:11:41.8021 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 15:11:41.8270 Info Adding target FileTarget(Name=allfile)
+2022-09-12 15:11:41.8279 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 15:11:41.8279 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 15:11:41.8870 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:11:42.2723 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:31:24.9174 Info Message Template Auto Format enabled
+2022-09-12 15:31:24.9532 Info Loading assembly: NLog.Web.AspNetCore
+2022-09-12 15:31:24.9764 Info Adding target FileTarget(Name=allfile)
+2022-09-12 15:31:24.9772 Info Adding target FileTarget(Name=ownFile-web)
+2022-09-12 15:31:24.9772 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-09-12 15:31:25.0314 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
+2022-09-12 15:31:25.4660 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=/Users/lukasvanek/RiderProjects/Calc/Calc/bin/Debug/net6.0/NLog.config
